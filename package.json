@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^0.30.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "express-validator": "^6.14.0",
     "heroku-cli": "^7.0.9",
-    "mongodb": "^4.2.2",
-    "mongoose": "^6.1.2",
+    "mongodb": "^4.17.2",
+    "mongoose": "^6.13.8",
     "nodemon": "^2.0.15"
   },
   "devDependencies": {},
